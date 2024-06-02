@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/swastik_portfolio/static/css/main.eeeaf367.css",
-    "main.js": "/swastik_portfolio/static/js/main.135d4870.js",
-    "static/js/453.8ad7cd1b.chunk.js": "/swastik_portfolio/static/js/453.8ad7cd1b.chunk.js",
+    "main.css": "/swastik_portfolio/static/css/main.57e2b8d7.css",
+    "main.js": "/swastik_portfolio/static/js/main.dab50d85.js",
+    "static/js/453.bbdfe6a0.chunk.js": "/swastik_portfolio/static/js/453.bbdfe6a0.chunk.js",
+    "static/media/profileImg.jpeg": "/swastik_portfolio/static/media/profileImg.33f88e731895ce530d03.jpeg",
     "index.html": "/swastik_portfolio/index.html",
-    "main.eeeaf367.css.map": "/swastik_portfolio/static/css/main.eeeaf367.css.map",
-    "main.135d4870.js.map": "/swastik_portfolio/static/js/main.135d4870.js.map",
-    "453.8ad7cd1b.chunk.js.map": "/swastik_portfolio/static/js/453.8ad7cd1b.chunk.js.map"
+    "main.57e2b8d7.css.map": "/swastik_portfolio/static/css/main.57e2b8d7.css.map",
+    "main.dab50d85.js.map": "/swastik_portfolio/static/js/main.dab50d85.js.map",
+    "453.bbdfe6a0.chunk.js.map": "/swastik_portfolio/static/js/453.bbdfe6a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eeeaf367.css",
-    "static/js/main.135d4870.js"
+    "static/css/main.57e2b8d7.css",
+    "static/js/main.dab50d85.js"
   ]
 }
