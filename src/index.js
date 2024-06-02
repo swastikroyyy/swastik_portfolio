@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import '@mantine/core/styles.css';
+import 'react-app-polyfill/stable';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

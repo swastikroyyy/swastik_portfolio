@@ -1,7 +1,8 @@
 import React from 'react';
 import { useForm, Controller } from 'react-hook-form';
 import { TextInput, Textarea } from '@mantine/core';
-
+import { SiGmail, SiGithub,SiLinkedin } from "react-icons/si";
+import { BsFillTelephoneFill } from "react-icons/bs";
 const Contact = () => {
     const { handleSubmit, control,  reset, formState: { errors } } = useForm({
         defaultValues: {
@@ -11,6 +12,8 @@ const Contact = () => {
         }
     });
 
+
+ 
     const onSubmit = async (data) => {
         // Handle form submission
         try {
@@ -105,16 +108,19 @@ const Contact = () => {
             <div className="text-center flex justify-center items-center gap-6  m-4">
            
           <a href="mailto:swastik.roy1995@gmail.com">
-      <img src='/icons/email.svg' className='w-5 h-5' alt=''/>
+          <SiGmail/>
       </a>
       <a href="tel:8918701506">
-      <img src='/icons/telephone.svg' className='w-5 h-5' alt=''/>
+      < BsFillTelephoneFill/>
+   
       </a>
       <a href="https://www.linkedin.com/in/swastik-roy-306702135/">
-      <img src='/icons/linkedin.svg' className='w-5 h-5' alt=''/>
+      <SiLinkedin/>
+
       </a>
       <a href="https://github.com/swastikroyyy">
-      <img src='/icons/github.svg' className='w-5 h-5' alt=''/>
+    
+      <SiGithub/>
       </a>
      
       
