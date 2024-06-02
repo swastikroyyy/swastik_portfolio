@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swastik_portfolio/static/css/main.eeeaf367.css",
+    "main.js": "/swastik_portfolio/static/js/main.135d4870.js",
+    "static/js/453.8ad7cd1b.chunk.js": "/swastik_portfolio/static/js/453.8ad7cd1b.chunk.js",
+    "index.html": "/swastik_portfolio/index.html",
+    "main.eeeaf367.css.map": "/swastik_portfolio/static/css/main.eeeaf367.css.map",
+    "main.135d4870.js.map": "/swastik_portfolio/static/js/main.135d4870.js.map",
+    "453.8ad7cd1b.chunk.js.map": "/swastik_portfolio/static/js/453.8ad7cd1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeeaf367.css",
+    "static/js/main.135d4870.js"
+  ]
+}
